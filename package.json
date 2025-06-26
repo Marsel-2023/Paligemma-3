@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "test": "python -m pytest test_main.py -v"
+  }
+}
