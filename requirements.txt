@@ -1,5 +1,12 @@
-streamlit
+flask>=2.0.0
 gradio_client
 python-multipart
-pytest
-pytest-mock
+python-dotenv>=0.19.0
+
+# Тестовые зависимости
+pytest>=7.0.0
+pytest-mock>=3.8.0
+pytest-cov>=4.0.0
+pytest-html>=3.1.0
+pytest-xdist>=2.5.0
+coverage>=6.0.0
